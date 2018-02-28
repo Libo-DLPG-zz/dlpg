@@ -9,8 +9,8 @@
 
 <channel>
 	<title>DLPG</title>
-	<atom:link href="https://libo-dlpg.github.io/dlpg/feed/" rel="self" type="application/rss+xml" />
-	<link>https://libo-dlpg.github.io/dlpg</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Work Reimagined</description>
 	<lastBuildDate>Tue, 27 Feb 2018 16:08:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,9 +19,9 @@
 	<generator>https://wordpress.org/?v=4.9.4</generator>
 
 <image>
-	<url>https://libo-dlpg.github.io/dlpg/wp-content/uploads/2018/02/cropped-DLPG_Logo_1-32x32.jpg</url>
+	<url>/wp-content/uploads/2018/02/cropped-DLPG_Logo_1-32x32.jpg</url>
 	<title>DLPG</title>
-	<link>https://libo-dlpg.github.io/dlpg</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 

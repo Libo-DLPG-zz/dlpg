@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments for DLPG</title>
-	<atom:link href="https://libo-dlpg.github.io/dlpg/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://libo-dlpg.github.io/dlpg</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Work Reimagined</description>
-	<lastBuildDate>Tue, 27 Feb 2018 16:38:02 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Feb 2018 09:10:41 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.4</generator>
